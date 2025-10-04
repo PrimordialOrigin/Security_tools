@@ -50,12 +50,12 @@ Unauthorized access to computer systems is illegal. Always obtain explicit writt
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/security-tools-installer.git
+git clone https://github.com/PrimordialOrigin/security-tools.git
 
 # Navigate to directory
-cd security-tools-installer
+cd security-tools
 
-# Make executable
+# Make executable (Optional)
 chmod +x install.py
 
 # Run the installer
