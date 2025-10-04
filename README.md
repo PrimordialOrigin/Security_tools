@@ -56,7 +56,7 @@ git clone https://github.com/PrimordialOrigin/security-tools.git
 cd security-tools
 
 # Make executable (Optional)
-chmod +x install.py
+chmod +x security-tools.py
 
 # Run the installer
-python3 install.py
+python3 security-tools.py
